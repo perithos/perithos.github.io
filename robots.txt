@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://perithos.github.io/sitemap.html.gz
+Sitemap: https://perithos.github.io/app/sitemap.html.gz
+Sitemap: https://perithos.github.io/assets/sitemap.html.gz
+Sitemap: https://perithos.github.io/css/sitemap.html.gz
+Sitemap: https://perithos.github.io/includes/sitemap.html.gz
+Sitemap: https://perithos.github.io/item/sitemap.html.gz
+Sitemap: https://perithos.github.io/src/sitemap.html.gz
